@@ -5,6 +5,16 @@
 - [Slides with exercises](https://docs.google.com/presentation/d/1uuYIPwQjckNiPPJQcN8tauZ8KSIdHASbyoAxJ0fc6uQ/edit?usp=sharing)
 
 
+## Repository
+
+In order to use the local [kube-prometheus](kube-prometheus/) project, initialize the submodules.
+
+``´
+git submodule init && git submodule update
+```
+
+Or clone the project with `git clone --recursive ...`. 
+
 ## Preparations
 
 The workshop requires a bare Kubernetes cluster with `kubectl` available on the terminal.
