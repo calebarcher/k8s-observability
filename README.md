@@ -35,3 +35,10 @@ $ kubectl config use-context ks-k8s-o11y
 $ kubectl get node
 ```
 
+Development - https://www.civo.com/api/kubernetes#list-available-versions 
+
+```
+civo kubernetes create ks-k8s-o11y --version=1.23.10-k3s1
+```
+
+
