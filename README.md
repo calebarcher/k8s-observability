@@ -9,7 +9,7 @@
 
 In order to use the local [kube-prometheus](kube-prometheus/) project, initialize the submodules.
 
-``´
+```
 git submodule init && git submodule update
 ```
 
