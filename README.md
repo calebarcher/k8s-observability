@@ -1,9 +1,23 @@
 # KubeSimplify: Kubernetes Observability Workshop
 
+## What to expect
+
+- Intro and preparations
+- Monitoring, quo vadis
+- Prometheus, Grafana, Kubernetes
+- Alerts, incidents and SLOs
+- Observability?
+- Tracing, logs, and more
+- Scaling, eBPF, security, ideas
+
 ## Resources
 
 - [Slides with exercises](https://docs.google.com/presentation/d/1uuYIPwQjckNiPPJQcN8tauZ8KSIdHASbyoAxJ0fc6uQ/edit?usp=sharing)
+- [kubernetes/](kubernetes/) provides all Kubernetes manifests and configuration files, referenced by the exercises.
+  - In case you open a fork/copy, the single source of truth is https://gitlab.com/everyonecancontribute/workshops/kube-simplify/k8s-o11y-2022
+- Additional projects and images are available in the https://gitlab.com/everyonecancontribute/observability group.
 
+Everything is public so that everyone can contribute.
 
 ## Repository
 
