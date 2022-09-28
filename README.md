@@ -2,13 +2,7 @@
 
 ## What to expect
 
-- Intro and preparations
-- Monitoring, quo vadis
-- Prometheus, Grafana, Kubernetes
-- Alerts, incidents and SLOs
-- Observability?
-- Tracing, logs, and more
-- Scaling, eBPF, security, ideas
+Michael provided a 3.5 hours live workshop on Kubernetes Observability for the [Kube Simplify workshop series](https://kubesimplify.github.io/live-workshops/) as a free learning resource. After an introduction, the workshop starts with an overview of monitoring, metrics with Prometheus, and how to build and use dashboards in Kubernetes. Alerts, incidents and SLOs are practiced by example, building the bridge into more Observability data with tracing, logs and more event types. Chaos engineering is practiced with Chaos Mesh to trigger alerts when DNS forces and app to leak memory. This allows users to practice the [KubeCon EU 2022 demo](https://youtu.be/BkREMg8adaI) themselves. Scaling, long term storage, security workflows as well as new innovative ideas with OpenTelemetry and eBPF are discussed too. The workshop includes exercises and solutions ready for production environments afterwards. 
 
 ## Resources
 
